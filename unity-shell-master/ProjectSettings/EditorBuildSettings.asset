@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/CG.unity
+    guid: f5a02709bc3bef54e89c781125721a7c
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: a10fbcb263856614dbd1c9399a5745bc
+  - enabled: 1
+    path: Assets/Scenes/Level/GuideLevel.unity
+    guid: a2b58d8c2e473104380da39b8eb2a7e5
+  - enabled: 1
+    path: Assets/Scenes/Level/ExtraLevel.unity
+    guid: d30fbee988f498842a6e22beea9f1786
+  - enabled: 1
+    path: Assets/Scenes/Level/MainLevel.unity
+    guid: 4a51a079c7adffd4db7d4b4385d8944c
+  - enabled: 1
+    path: Assets/Scenes/Ending/TrueEnding.unity
+    guid: f34370c2d7caf33459bccd40383bc4a3
+  - enabled: 1
+    path: Assets/Scenes/Ending/NormalEnding.unity
+    guid: 1ea8d0eb6dd6885498a0d2b77a574c06
+  - enabled: 1
+    path: Assets/Scenes/Ending/LostEnding.unity
+    guid: 45e375bea03e153479606df97e771b3d
+  - enabled: 1
+    path: Assets/Scenes/Ending/FakeEnding.unity
+    guid: 21a0bf1f68b846c4fa8ec06c7fc69784
+  - enabled: 1
+    path: Assets/Scenes/Ending/BadEnding.unity
+    guid: 5d665b4e7f40ab54ea814d59e6028976
+  - enabled: 1
+    path: Assets/Scenes/Level/BossLevel.unity
+    guid: d66978073cf5145fd91c7b984f65e3c5
+  m_configObjects: {}

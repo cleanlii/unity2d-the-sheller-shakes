@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - UI
+  - weapons
+  - EnemyManager
+  - EnemyAttack
+  - Boss
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EnemyAttack
+  - PlayerAttack
+  - Player
+  - Ground
+  - Monster
+  - Shell
+  - Traps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1813725589
+    locked: 0
+  - name: Near Background
+    uniqueID: 3045340947
+    locked: 0
+  - name: Cave
+    uniqueID: 289099467
+    locked: 0
+  - name: Exterior
+    uniqueID: 2096647583
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2142185203
+    locked: 0
+  - name: Near Foreground
+    uniqueID: 3100515237
+    locked: 0
