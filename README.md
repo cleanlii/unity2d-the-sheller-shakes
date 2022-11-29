@@ -7,7 +7,7 @@
 - 宣传预告片：[The Sheller Shakes PV](https://www.bilibili.com/video/BV165411W7Wy/)
 - 免安装试玩版：[The Sheller Shakes Demo for Windows](https://pan.baidu.com/s/1_ba0AvWQkwp118lll8_h4A)（提取码：oigi）
 ## 游戏简介
-《壳》是一款微观世界之下、银河恶魔城风格的 2D 横板类魂游戏，由浙江工商大学信息学院计科 1702 第五小组同学全权原创制作。
+《壳》是一款微观世界之下、银河恶魔城风格的 2D 横板类魂游戏，由计算机系学生全权原创制作。
 这是一个壳的世界，一个关于赫与卡的世界。背负着“初壳的诅咒”，每一个赫与卡自降生时便注定踏上使命之路——“大归还”：归还最初之光，归还灵的力量，归还剥落的初壳的碎片。
 ![123](https://img-blog.csdnimg.cn/20201112110740403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
