@@ -43,6 +43,9 @@ unlocked in the second week;
 - **Sidequests**: certain NPCs have special storylines.
 
 ### Shell Break System
+
+![image](https://user-images.githubusercontent.com/43462337/230441548-5dd334c9-71c2-4008-bb75-2d6bd33eadc0.png)
+
 ##### Keyword: Breaking
 - The degree of damage of the "shell" represents the traditional sense of HP. The shell stays with the sheller. When the shell break value reaches 100%, the player is judged to be dead.
 ##### Loss & Recovery
@@ -54,6 +57,9 @@ unlocked in the second week;
 - **How to Pass**: defeat the final boss before the shell break ratio reaches 100%
 
 ### Shell Power System
+
+![image](https://user-images.githubusercontent.com/43462337/230441497-56230e1f-c6b7-4af5-91c6-07de3aabff17.png)
+
 ##### Keyword: Power
 - **2 Types**: reinforcing skills (continuous buffs), offensive skills (multiple triggers/existence of CDs).
 - The character can only equip one type of shell, which can be replaced by picking up a new shell.
@@ -64,6 +70,9 @@ unlocked in the second week;
 - **5 Colors**: Red represents special fixed shells such as BOSS drops, Yellow represents shells dropped by other players, Blue represents random attack shells, Green represents random BUFF shells, Gray represents all possible cursed shells.
 
 ### Shell Link System
+
+![image](https://user-images.githubusercontent.com/43462337/230441180-75d7b430-7080-422a-94a2-f3bcaec7a1f0.png)
+
 ##### Keyword: Spell
 -  The unique label (words) of the shell. From BOSS to NPC, each “shell" has a unique "label", the entry plays a role in player interaction, prompting the plot, revealing the background.
 ##### Weak Social Chains
@@ -81,6 +90,9 @@ unlocked in the second week;
 - Counting and displaying reviews to players after they passed the game
 
 ### Soul Rules
+
+![image](https://user-images.githubusercontent.com/43462337/230441353-a733e911-a069-42eb-b25c-b4f06e57f1d3.png)
+
 ##### Keyword: Soul-like
 - High levels of difficulty and emphasis on environmental storytelling, typically in a dark fantasy setting
 ##### Bonfire: The Nest
@@ -91,6 +103,9 @@ unlocked in the second week;
 - Shell power values of the enemies are not displayed.
 
 ### Rogue Rules
+
+![image](https://user-images.githubusercontent.com/43462337/230441408-ec5efdb4-7316-4ba2-80eb-b5129461d05a.png)
+
 ##### Keyword: Roguelike
 - Randomize the game content on a level-by-level basis, so that each level is a different experience every time.
 ##### Core Gameplay：Random
@@ -107,7 +122,6 @@ unlocked in the second week;
 ## 前言
 
 壳是容器，壳是负担，壳是生命最沉重的部分，壳是宇宙的构造准则，大到地壳，小到细胞膜；壳存在的意义，即生命的延续和传递。
-![main](https://img-blog.csdnimg.cn/20201112110911307.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ## 传送门
 
@@ -118,7 +132,6 @@ unlocked in the second week;
 
 《壳》是一款微观世界之下、银河恶魔城风格的 2D 横板类魂游戏，由计算机系学生全权原创制作。
 这是一个壳的世界，一个关于赫与卡的世界。背负着“初壳的诅咒”，每一个赫与卡自降生时便注定踏上使命之路——“大归还”：归还最初之光，归还灵的力量，归还剥落的初壳的碎片。
-![123](https://img-blog.csdnimg.cn/20201112110740403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 你，初始之光的一缕余烬，新生出炉的赫，将背负着你薄如蝉翼的壳，搜寻着能为你所用的卡，起身出发，击败挡在使命前的前辈们，和无数同行的赫与卡一起，用一次又一次的赴死开拓出新的输血之路，远方一如世界伊始的混沌……
 
@@ -129,14 +142,12 @@ unlocked in the second week;
 ##### 关键词：“壳损”
 
 - 即“壳”的破损程度，影射传统意义上的生命值，赫与卡同在，壳与负壳者同在，当壳损值达到100%，玩家即被判定为**死亡**；
-![123](https://img-blog.csdnimg.cn/20201112111552580.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ##### 核心机制：回复与损耗
 
 - 核心：**所有机制围绕壳损而展开**；
 - 损耗手段：被敌人攻击、激活壳能、更换壳、坠落等；
 - 回复手段：巢（篝火）、宝箱、吸收壳、特殊壳能等；
-![123](https://img-blog.csdnimg.cn/20201112111540940.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ##### 战斗技巧：“背刺”
 
@@ -148,7 +159,6 @@ unlocked in the second week;
 ##### 关键词：“壳能”
 
 - 即获得的“卡”所蕴含的能力，代表一种特殊技能，共有两种类型：强化性技能（持续BUFF）、攻击性技能（多次触发/存在CD）；一个角色只能装备一种壳能，可通过**拾取新壳**来替换壳能；
-![321](https://img-blog.csdnimg.cn/20201112123014637.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ##### 核心机制：充能与拾取
 
@@ -158,7 +168,6 @@ unlocked in the second week;
 ##### 多样化：壳的分类
 
 - 分类：拾取壳即可获取壳能，同时壳损值全回复，共有五种不同类型的壳，不同类型的壳强度也不同，用掉落来源作分，以**颜色**区别；
-![123](https://img-blog.csdnimg.cn/20201112123004914.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 - 红、黄、蓝、绿、灰：红代表特殊固定的壳如BOSS掉落、黄代表其他玩家掉落的壳、蓝代表随机攻击壳、绿代表随机BUFF壳、灰代表一切皆有可能的诅咒壳；
 
@@ -167,7 +176,6 @@ unlocked in the second week;
 ##### 关键词：“壳语”
 
 - 即“壳”的独特标签（词条）。上至玩家BOSS，下至小怪NPC，每一个“卡”具有独特的“词条”，词条起到玩家互动、提示剧情、揭示背景的作用。
-![321](https://img-blog.csdnimg.cn/20201112123552842.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ##### 核心机制：弱社交链
 
@@ -177,16 +185,12 @@ unlocked in the second week;
 
 ##### 互动方式：“四板斧”
 
-![123](https://img-blog.csdnimg.cn/20201112123535676.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
-
 - 过关途中“翻车”死亡；
 - 流程中“自杀”**留下讯息**；
 - 巢捐献卡（玩家在巢奉献卡，自己的则会被消耗，其他玩家可在对应巢取用）；
 - 给予别人的壳好评/差评；
 
 ##### 社交激励：“催产素”
-
-![321](https://img-blog.csdnimg.cn/2020111212363357.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 - 参考《死亡搁浅》Bridge Link系统；
 - 参考《黑暗之魂》留言系统；
@@ -197,7 +201,6 @@ unlocked in the second week;
 ##### 关键词：“类魂”
 
 - 即借鉴《黑暗之魂》系列的特色设计，采用高难度、**死亡惩罚**、无台词行为叙事等方针呈现游戏；
-![312](https://img-blog.csdnimg.cn/20201112123748641.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ##### 核心机制：“巢”
 
@@ -215,8 +218,6 @@ unlocked in the second week;
 
 ##### 核心机制：随机
 
-![222](https://img-blog.csdnimg.cn/20201112123932153.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
-
 - 分布随机：敌人分布（BOSS除外）、地图资源分布、部分地形分布等；
 - 对象随机：敌人类型/数量、宝箱类型/数量等；
 - 策略随机：小怪身上的**壳**是随机的，这意味着他们的**能力**也是随机的，如果你一开始便获得强力的壳，那么你可以运筹帷幄保住这个壳来通关，如果你运气没那么好，尽情更换吧。
@@ -225,15 +226,11 @@ unlocked in the second week;
 
 ##### 各类特效
 
-![321](https://img-blog.csdnimg.cn/2020111212450077.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
-
 - 角色特效：2D IK & Skeleton、Sprite Swap、2D Animation、Flowchart等；
 - 战斗特效：相机抖动效果、受伤变色效果、Shader Graph等；
 - 场景特效：Universal RP、Light 2D光影细节、Sprite Shape、法线贴图应用等；
 
 ##### 故事呈现
-
-![321](https://img-blog.csdnimg.cn/20201112124516803.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 - 多结局机制：多对多的通关条件关系；
 - 隐藏关卡设计：部分BOSS及关卡内容需二周目解锁；
@@ -242,14 +239,17 @@ unlocked in the second week;
 
 ## 原画欣赏
 
-![321](https://img-blog.csdnimg.cn/20201112124603860.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 ![22](https://img-blog.csdnimg.cn/20201112124825247.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
+
 ![11](https://img-blog.csdnimg.cn/20201112124834499.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ## 实机画面
 
-![321](https://img-blog.csdnimg.cn/20201112123800420.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 ![77](https://img-blog.csdnimg.cn/20201112125030321.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
+
 ![123](https://img-blog.csdnimg.cn/20201112125049471.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
+
 ![33](https://img-blog.csdnimg.cn/20201112125100611.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
+
 ![321](https://img-blog.csdnimg.cn/20201112124542493.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
+
