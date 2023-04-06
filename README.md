@@ -42,7 +42,7 @@ unlocked in the second week;
 - **In-game Statistics**: number of kills, deaths, etc;
 - **Sidequests**: certain NPCs have special storylines.
 
-### Shell Break
+### Shell Break System
 ##### Keyword: Breaking
 - The degree of damage of the "shell" represents the traditional sense of HP. The shell stays with the sheller. When the shell break value reaches 100%, the player is judged to be dead.
 ##### Loss & Recovery
@@ -53,7 +53,7 @@ unlocked in the second week;
 - **Mechanism**: everyone in this world is a sheller which means direct attacks on the shell will also cause damage.
 - **How to Pass**: defeat the final boss before the shell break ratio reaches 100%
 
-### Shell Power
+### Shell Power System
 ##### Keyword: Power
 - **2 Types**: reinforcing skills (continuous buffs), offensive skills (multiple triggers/existence of CDs).
 - The character can only equip one type of shell, which can be replaced by picking up a new shell.
@@ -63,7 +63,7 @@ unlocked in the second week;
 ##### Various Shells
 - **5 Colors**: Red represents special fixed shells such as BOSS drops, Yellow represents shells dropped by other players, Blue represents random attack shells, Green represents random BUFF shells, Gray represents all possible cursed shells.
 
-### Shell Link
+### Shell Link System
 ##### Keyword: Spell
 -  The unique label (words) of the shell. From BOSS to NPC, each “shell" has a unique "label", the entry plays a role in player interaction, prompting the plot, revealing the background.
 ##### Weak Social Chains
