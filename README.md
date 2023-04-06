@@ -14,12 +14,10 @@
 ![main](https://img-blog.csdnimg.cn/20201112110911307.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
 
 ## Intro
-"Shell" is a 2D side-scrolling action game in the style of "Galaxy Demon Castle" set in a microscopic world, created entirely by college students.
-It is a world of shells, a world of He and Ka. Bearing the "curse of the initial shell," every He and Ka born is destined to embark on a mission called "the Great Return": to return the original light, return the power of the spirits, and return the fragments of the initial shell that have been shed.
-
-![123](https://img-blog.csdnimg.cn/20201112110740403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
-
-And you, a remnant of the initial light, a newly born He, will carry your fragile shell and search for the useful Ka. Rise up, defeat the predecessors who stand in the way of your mission, and together with countless fellow He and Ka, open up new paths of blood transfusion through repeated sacrifices, into the chaos that lies ahead, just as the world began."
+*The Sheller Shakes* is a 2D side-scrolling ARPG in a micro world, created and maintained by a college student.
+It is a world of shells, a world of shells and shellers. Bearing *the curse from the Mother Shell*, every He and Ka born is destined to embark on a infinite mission called *the Great Return*: to return the original light, return the power of the spirits, and return the fragments of the Mother Shell that have been shed.
+And you, a remnant of the original light, a newly born sheller, will carry your fragile shell and search for the useful shells.
+Rise up, defeat the predecessors who stand in the way of your mission, and together with countless fellows, open up new paths of blood transfusion through repeated sacrifices, into the chaos that lies ahead, just as the world began.
 
 ## Features
 ### Scripts
