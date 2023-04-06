@@ -16,7 +16,9 @@
 ## Intro
 "Shell" is a 2D side-scrolling action game in the style of "Galaxy Demon Castle" set in a microscopic world, created entirely by college students.
 It is a world of shells, a world of He and Ka. Bearing the "curse of the initial shell," every He and Ka born is destined to embark on a mission called "the Great Return": to return the original light, return the power of the spirits, and return the fragments of the initial shell that have been shed.
+
 ![123](https://img-blog.csdnimg.cn/20201112110740403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NsZWFubGlp,size_16,color_FFFFFF,t_70#pic_center)
+
 And you, a remnant of the initial light, a newly born He, will carry your fragile shell and search for the useful Ka. Rise up, defeat the predecessors who stand in the way of your mission, and together with countless fellow He and Ka, open up new paths of blood transfusion through repeated sacrifices, into the chaos that lies ahead, just as the world began."
 
 ## Features
@@ -27,6 +29,19 @@ And you, a remnant of the initial light, a newly born He, will carry your fragil
 - More than 10 interactive NPCs and their branches
 - More than 50 concept notes & prototypes
 - More than 5 different endings
+
+### Effects
+- **Character**: 2D IK & Skeleton, Sprite Swap, 2D Animation, Flowchart, etc.;
+- **Combat**: Camera Shake, Injury Color, Shader Graph, etc;
+- **Scene**: Universal RP, Light 2D, Sprite Shape, etc;
+
+### Narratives
+- **Multi-ending Mechanism**: many-to-many relationship of 
+pass conditions;
+- **Hidden Level**: some bosses and level content need to be 
+unlocked in the second week;
+- **In-game Statistics**: number of kills, deaths, etc;
+- **Sidequests**: certain NPCs have special storylines.
 
 ### Shell Break
 ##### Keyword: Breaking
@@ -83,19 +98,6 @@ And you, a remnant of the initial light, a newly born He, will carry your fragil
 - **Map Random**: distribution of enemies (except BOSS), map resources, some certain terrains, etc;
 - **Object Random**: type/number of enemies/chests, etc;
 - **Strategy Random**: the shells on the monsters are random, which means their skills are also random.
-
-### Technical Features
-##### Effects
-- **Character**: 2D IK & Skeleton, Sprite Swap, 2D Animation, Flowchart, etc.;
-- **Combat**: Camera Shake, Injury Color, Shader Graph, etc;
-- **Scene**: Universal RP, Light 2D, Sprite Shape, etc;
-##### Narratives
-- **Multi-ending Mechanism**: many-to-many relationship of 
-pass conditions;
-- **Hidden Level**: some bosses and level content need to be 
-unlocked in the second week;
-- **In-game Statistics**: number of kills, deaths, etc;
-- **Sidequests**: certain NPCs have special storylines.
 
 ## Links
 - Trailer：[The Sheller Shakes PV](https://www.bilibili.com/video/BV165411W7Wy/)
