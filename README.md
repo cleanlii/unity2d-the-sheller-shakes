@@ -101,7 +101,7 @@ unlocked in the second week;
 
 ## Links
 - Trailer：[The Sheller Shakes PV](https://www.bilibili.com/video/BV165411W7Wy/)
-- Demo：[The Sheller Shakes Demo for Windows](https://pan.baidu.com/s/1_ba0AvWQkwp118lll8_h4A)（提取码：oigi）
+- Demo：[The Sheller Shakes Demo for Windows](https://pan.baidu.com/s/1_ba0AvWQkwp118lll8_h4A)（Password: oigi）
 
 ---
 
