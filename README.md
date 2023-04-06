@@ -15,9 +15,10 @@
 
 ## Intro
 *The Sheller Shakes* is a 2D side-scrolling ARPG in a micro world, created and maintained by a college student.
+
 It is a world of shells, a world of shells and shellers. Bearing *the curse from the Mother Shell*, every He and Ka born is destined to embark on a infinite mission called *the Great Return*: to return the original light, return the power of the spirits, and return the fragments of the Mother Shell that have been shed.
-And you, a remnant of the original light, a newly born sheller, will carry your fragile shell and search for the useful shells.
-Rise up, defeat the predecessors who stand in the way of your mission, and together with countless fellows, open up new paths of blood transfusion through repeated sacrifices, into the chaos that lies ahead, just as the world began.
+
+And you, a remnant of the original light, a newly born sheller, will carry your fragile shell and search for the useful shells. Rise up, defeat the predecessors who stand in the way of your mission, and together with countless fellows, open up new paths of blood transfusion through repeated sacrifices, into the chaos that lies ahead, just as the world began.
 
 ## Features
 ### Scripts
